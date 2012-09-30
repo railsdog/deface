@@ -1,4 +1,1 @@
-deface
-======
-
-Deface has moved.  Official repo is now at spree/deface
+Deface has moved.  Official repo is now located at [spree/deface](https://github.com/spree/deface)
